@@ -1,0 +1,3 @@
+City/State	Energy Consumption (kWh)	Pollution Emissions (kg CO2eq)
+kg				989.0						789.0
+gh				789.0						578.0
