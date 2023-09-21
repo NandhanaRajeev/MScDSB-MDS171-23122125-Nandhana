@@ -15,4 +15,4 @@ Email:nandhana.rajeev@msds.christuniversity.in
 |4.|05-09-23|lab04|write a program to store the orders and push it to github|[Lab04](https://github.com/NandhanaRajeev/MScDSB-MDS171-23122125-Nandhana/blob/dcc9360b3bcffd0db29e6db046fa02bd9b361885/Lab%2004.ipynb)
 |5.|12-09-23|lab05|write a program to find the vowel count of a string|[Lab05](https://github.com/NandhanaRajeev/MScDSB-MDS171-23122125-Nandhana/blob/dcc9360b3bcffd0db29e6db046fa02bd9b361885/Lab%2005.ipynb)
 |6.|14-09-23|lab06|write a program of mix and match calculator and push it to github|[Lab06](https://github.com/NandhanaRajeev/MScDSB-MDS171-23122125-Nandhana/tree/90bbfd334da58e316505bf3055b59002a49418e7/Lab06)
-|7.|21-09-23|lab07|write a program for expense cracker and push it to github|[Lab07](https://github.com/NandhanaRajeev/MScDSB-MDS171-23122125-Nandhana/tree/9bbee255e42f329860c43bd9bdab308ff24ed9f4/Lab07)
+|7.|21-09-23|lab07|write a program for expense tracker and push it to github|[Lab07](https://github.com/NandhanaRajeev/MScDSB-MDS171-23122125-Nandhana/tree/9bbee255e42f329860c43bd9bdab308ff24ed9f4/Lab07)
