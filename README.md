@@ -17,3 +17,4 @@ Email:nandhana.rajeev@msds.christuniversity.in
 |6.|14-09-23|lab06|write a program of mix and match calculator and push it to github|[Lab06](https://github.com/NandhanaRajeev/MScDSB-MDS171-23122125-Nandhana/tree/90bbfd334da58e316505bf3055b59002a49418e7/Lab06)
 |7.|21-09-23|lab07|write a program for expense tracker and push it to github|[Lab07](https://github.com/NandhanaRajeev/MScDSB-MDS171-23122125-Nandhana/tree/9bbee255e42f329860c43bd9bdab308ff24ed9f4/Lab07)
 |8.|3-10-23|lab08|write a program to implement a stack class and push it to github|[Lab08](https://github.com/NandhanaRajeev/MScDSB-MDS171-23122125-Nandhana/blob/8ec192dd2e02994263f5cc1d055b3d95c12a31fc/Lab%2008.py)
+|9.|10-10-23|lab09|write a program to create a petstore class and push it to github|[Lab09]()
